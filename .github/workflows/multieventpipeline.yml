@@ -9,10 +9,9 @@ on:
         branches:
           - master
         types:
-          - closed    
+          - closed   
     workflow_dispatch:
           
-
 
 jobs:
     on-push:
